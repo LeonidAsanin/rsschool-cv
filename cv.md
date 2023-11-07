@@ -1,4 +1,5 @@
 # Leonid Asanin
+![photo](photo.jpg "Фотография")
 # Contact info
 + Phone: +7-917-168-68-65
 + E-mail: l.asanin@mail.ru
