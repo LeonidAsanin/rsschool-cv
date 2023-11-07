@@ -18,7 +18,8 @@ I am a professional software developer who eager to learn more and more technolo
 + **AvtoVAZ, Design Engineer** (2020, October - 2022, June)
 # Code example
 LeetCode, Longest Common Prefix problem:
-```
+
+```javascript
 /**
  * @param {string[]} strs
  * @return {string}
